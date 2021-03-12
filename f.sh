@@ -1,2 +1,0 @@
-lscpu
-free -m
